@@ -1,9 +1,9 @@
 # AllenNLP seq2seq playground
 
 
-[SyntheticQA.ipynb](SyntheticQA.ipynb) - Synthetic  data generator. Used to generate train and test data.
-[allen_test_conf.json](allen_test_conf.json) - AllenNLP experiment configuration.
-[predictor.py](predictor.py) - Script, used for inference with trained model
+* [SyntheticQA.ipynb](SyntheticQA.ipynb) - Synthetic  data generator. Used to generate train and test data.
+* [allen_test_conf.json](allen_test_conf.json) - AllenNLP experiment configuration.
+* [predictor.py](predictor.py) - Script, used for inference with trained model
 
 
 ## Install & Run
